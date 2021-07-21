@@ -1,4 +1,4 @@
-# Desafio_StealthAg
+# Desafio StealthAg
 
 * Meteor Challenge (Part 1)
 
